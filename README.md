@@ -1,6 +1,6 @@
 # **MÓDULO 21 - Projeto 5**
 
-## Aprendizagem Baysiana
+## Árvore de Decisão
 
 Este projeto utiliza uma base de dados de score de crédito financeiro, tendo por objetivo aplicar o modelo de Árvore de Decisão na base, visando trazer previsões do score de crédito e publicar os resultados no GitHub.
 
